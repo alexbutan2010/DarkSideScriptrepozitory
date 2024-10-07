@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/bart3876478326746387/285ede5179a8787b175f3c9c212986dc/raw/9acf48c510d00319aa98e30311c0e04a84adf537/PHYSICS%20GUN%20V2%20(DRAG%20KO%20PEOPLE"))()
